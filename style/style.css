@@ -1,10 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 h2{
+    
     text-align: center;
-    color: blue;
+    color: rgb(255, 255, 255);
+    text-decoration: overline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
 }
-.img{
-    text-align: center;
-}
-img{
-    width: 100vh;
+#heading-parent{
+    width: 1140px;
+    margin: 30px auto;
+    background-color: blueviolet;
+    height: 600px;
+    padding-top: 80px;
 }
